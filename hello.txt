@@ -21,4 +21,4 @@ hello kgc! hello git!
 hello kgc! hello git!
 hello kgc! hello git!
 hello kgc! hello git!
-hello kgc! hell
+hello kgc! hell hot-fix test
